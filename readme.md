@@ -71,10 +71,11 @@ product.shop
 product.reviews
 
 review.product
-review.user
+review.user 
 
 user.reviewed_products
-user.shop # if this user owns a shop, returns the shop. For most users this would return nil.
+user.shop 
+# if this user owns a shop, returns the shop. For most users this would return nil.
 ```
 
 ## Release 3: Grubhub
